@@ -4,7 +4,7 @@
  */
 package com.nomina.interfaces;
 
- interface CalculadorSalario {
+ public interface CalculadorSalario {
  double calcularSalarioBruto();
  double calcularSalarioNeto();
 }

@@ -10,6 +10,6 @@ package com.nomina.interfaces;
  */
 
 
-interface Deducible {
+public interface Deducible {
     double calcularDeducciones();
 }
